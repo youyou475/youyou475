@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[[Go To Youyou475's Blog]](https://youyou475.github.io/)
+[Go To Youyou475's Blog](https://youyou475.github.io/)
